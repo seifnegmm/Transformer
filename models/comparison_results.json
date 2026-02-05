@@ -1,0 +1,38 @@
+{
+    "Scratch-256": {
+        "Reuters (Finance)": {
+            "perplexity": 27.159450157412294,
+            "accuracy": 0.37360331377621153,
+            "semantic_sim": 0.7321349382400513
+        },
+        "WikiText (General)": {
+            "perplexity": 80.6785570479773,
+            "accuracy": 0.2993049522154648,
+            "semantic_sim": 0.6182926893234253
+        }
+    },
+    "Scratch-512": {
+        "Reuters (Finance)": {
+            "perplexity": 22.104943104889422,
+            "accuracy": 0.3977792825722926,
+            "semantic_sim": 0.7409462928771973
+        },
+        "WikiText (General)": {
+            "perplexity": 64.98724040680781,
+            "accuracy": 0.3205364900086881,
+            "semantic_sim": 0.673515260219574
+        }
+    },
+    "Fine-tuned": {
+        "Reuters (Finance)": {
+            "perplexity": 16.861927435062206,
+            "accuracy": 0.42454223526030344,
+            "semantic_sim": 0.7416703104972839
+        },
+        "WikiText (General)": {
+            "perplexity": 28.24612223908626,
+            "accuracy": 0.3886566029539531,
+            "semantic_sim": 0.6808227300643921
+        }
+    }
+}
